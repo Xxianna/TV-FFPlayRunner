@@ -1,0 +1,1 @@
+curl -X POST -d "stop" http://192.168.31.56:12346
