@@ -71,7 +71,7 @@ After the program starts, a message box will pop up displaying the local IP addr
 
 Use OBS or other streaming tools to stream video to the displayed UDP address.
 
-![OBS options](recv/obs.jpg)
+![OBS options](obs配置.png)
 
 
 ### 5. 停止推流
